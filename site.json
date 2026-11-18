@@ -1,0 +1,7 @@
+{
+  "title": "Fairwater Municipal Archive",
+  "base_url": "https://archive.fairwater.example",
+  "collections_dir": "finding-aids",
+  "registry": "catalog/digitisation_registry.json",
+  "license": "CC0-1.0"
+}
